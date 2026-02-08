@@ -1,3 +1,17 @@
+"CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS"
+
+Company Name: CODTECH IT SOLUTIONS
+
+Name: Shinde Shantanu Dasharath
+
+Intern ID:  CTIS3019
+
+Domain Name: Full Stack Web Development
+
+Batch Duration: 4 Weeks
+
+Mentor Name: Nila Santos
+
 FocusFlow: Full-Stack Productivity Tracker 🚀
 FocusFlow is a comprehensive tool designed to help users understand their digital habits. It consists of a Chrome Extension that tracks time spent on various websites, a Node.js/Express Backend for data persistence, and a React Dashboard for beautiful data visualization.
 
@@ -67,3 +81,7 @@ Plaintext
 [ ] Custom Category Management: Allow users to define their own productive sites via the dashboard.
 
 [ ] Focus Mode: A feature to block "Unproductive" sites during set hours.
+
+#Output
+
+
