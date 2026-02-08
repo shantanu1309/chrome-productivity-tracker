@@ -70,11 +70,15 @@ The backend classifies the site (e.g., github.com as Productive, facebook.com as
 The React Dashboard fetches these logs to display a Pie Chart (Time Distribution) and a Line Chart (7-Day Trend).
 
 📁 Folder Structure
+
 Plaintext
 .
 ├── focus-extension/   # Manifest V3 extension and background script
+
 ├── focus-backend/     # Node.js server and MongoDB models
+
 └── focus-dashboard/   # React application for analytics
+
 🌟 Future Improvements
 [ ] Idle Detection: Pause tracking when the user is away from the keyboard.
 
