@@ -73,6 +73,7 @@ The React Dashboard fetches these logs to display a Pie Chart (Time Distribution
 
 Plaintext
 .
+
 ├── focus-extension/   # Manifest V3 extension and background script
 
 ├── focus-backend/     # Node.js server and MongoDB models
@@ -87,5 +88,7 @@ Plaintext
 [ ] Focus Mode: A feature to block "Unproductive" sites during set hours.
 
 #Output
+
+<img width="1303" height="888" alt="Image" src="https://github.com/user-attachments/assets/195ba54a-8c95-4c02-b2a6-40e03246f456" />
 
 
